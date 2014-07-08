@@ -166,8 +166,8 @@
       <contributor>Balassiano, Maria de Lourdes Filgueira, general secretary</contributor>
       <contributor>Motta, Maria Apparecida da, adjunct secretary</contributor>
       <contributor>Roma, Hugo Gonçalves, juridicial director</contributor>
-      <contributor>Meirelles, Dalva, director of patrimony</contributor>
-      <contributor>Oliveira, Varlô Ôlo De, editor</contributor>
+      <contributor>Meirelles, Dalva Paula Câmara, director of patrimony</contributor>
+      <contributor>Oliveira, Varlô Ôlo de, editor</contributor>
       <contributor>Costa, Elizabeth da, electronic editor</contributor>
       <contributor>Maestro, Humberto Del, poet</contributor>
       <contributor>Milanese, Lucilla, poet</contributor>
@@ -185,7 +185,7 @@
       <subject>Race</subject>
       <subject>Gender</subject>
       <description>Holdings: no. 1 (May 1981); no. 3-10 (1981-Mar 1982); (Apr 3, 82); no. 12-25, yr.?-4 (May 1982-Jul 1985)</description>
-      <description>Typed. Features selected poems by various authors. Several issues contains personal letters to Leila Miccolis from Fernando Fábio Fiorese Furtado.</description>
+      <description>Typed. Features selected poems by various authors. Several issues contains personal letters to Leila Míccolis from Fernando Fábio Fiorese Furtado.</description>
       <description>Contents: Raça (poem by Romério Rômulo), No. 20, page 6</description>
       <description>Contents: Poemas de Ouro Preto (poem by Jose Santos), No. 21, page 6 </description>
       <description>Contents: Eu, poema (poem by Ronaldo Moraes Rego), No. 22, page 6</description>
@@ -196,7 +196,7 @@
       <description>Notes: </description>
       <publisher>Sociedade de Articultura</publisher>
       <contributor>Carneiro, Lourival Sena, poet</contributor>
-      <contributor>Miccolis, Leila, poet</contributor>
+      <contributor>Míccolis, Leila, poet</contributor>
       <contributor>El-Khadoum, Suraia M., poet</contributor>
       <contributor>Santos, José dos, poet</contributor>
       <contributor>Antônio, Jorge, poet</contributor>
@@ -250,26 +250,17 @@
    </metadata>
    <metadata>
       <title>Absurdo Zine</title>
+      <creator>Prata, Paula, editor</creator>
       <Subject>Music</Subject>
       <subject>Theater</subject>
-      <description>Holdings: no. 5</description>
-      <description>Notes: </description>
-      <publisher/>
-      <date>Oct 1987</date>
-      <type>Zine</type>
-      <identifier>Box 1, Folder 8</identifier>
-      <coverage>Santos, SP</coverage>
-   </metadata>
-   <metadata>
-      <title>Absurdo Zine</title>
       <subject>Sexuality</subject>
       <subject>Music</subject>
       <subject>Anarchism</subject>
       <subject>Culture</subject>
-      <description>Holdings: no. 7 (Jan 1989); no. 9 (Spring 1989); no. 11-12 (undated)</description>
-      <description>Notes: 2 copies of no. 9, 12; 3 copies of no. 11</description>
+      <description>Holdings: no. 5 (Oct 1987); no. 7 (Jan 1989); no. 9 (Spring 1989); no. 11-12 (undated)</description>
+      <description>Notes: 2 copies of no. 9, 12; 3 copies of no. 11 </description>
       <publisher/>
-      <date>Jan 1989; Spring 1989</date>
+      <date>Oct 1987; Jan 1989; Spring 1989</date>
       <type>Zine</type>
       <identifier>Box 1, Folder 8</identifier>
       <coverage>Santos, SP</coverage>
@@ -299,10 +290,15 @@
    </metadata>
    <metadata>
       <title>Acampando no Verso</title>
+      <creator>Sousa, Ceiça, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: </description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Amaral, Marcelo dos Santos, collaborator</contributor>
+      <contributor>Dalgado, Rogério, collaborator</contributor>
+      <contributor>Domingos, Jorge, collaborator</contributor>
+      <contributor>Torres, Kátia, collaborator</contributor>
       <date>Jan/Feb/Mar 1992</date>
       <type>Poetry</type>
       <identifier>Box 1, Folder 11</identifier>
@@ -310,11 +306,14 @@
    </metadata>
    <metadata>
       <title>Ação Anti-AIDS</title>
+      <creator>Attlawel, Kathy, editor-in-chief</creator>
       <subject>AIDS</subject>
       <subject>Sexual health</subject>
       <description>Holdings: no. 12 (Dec 1990); no. 17- 18 (Jun-Dec 1992); no. 20 (Jun/Aug 1993)</description>
       <description>Notes: </description>
       <publisher>AHRTAG of London</publisher>
+      <contributor>Druce, Nei, executive editor</contributor>
+      <contributor>Till, Célia, producer</contributor>
       <date>Dec 1990; Jun-Dec 1992; Jun/Aug 1993</date>
       <identifier>Box 1, Folder 12</identifier>
       <coverage>Rio de Janeiro, RJ</coverage>
@@ -342,10 +341,13 @@
    </metadata>
    <metadata>
       <title>Ação Poesia</title>
+      <creator>Almeida, Jacy Gomes de, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 7, yr. 3</description>
       <description>Notes: </description>
       <publisher>Movimento Cultural</publisher>
+      <contributor>Dupré, Fanny, poet</contributor>
+      <contributor>Silva, Cíntia de Souza e, poet</contributor>
       <date>Mar 1996</date>
       <type>Poetry</type>
       <identifier>Box 1, Folder 14</identifier>
@@ -370,12 +372,12 @@
       <contributor>Cruz, Neldina de Souza, poet</contributor>
       <contributor>Rubens, Flávio, poet</contributor>
       <contributor>Cagiano, Ronaldo, poet</contributor>
-      <contributor>Moreira, Ziney S., poet</contributor>
+      <contributor>Moreira, Ziney Santos, poet</contributor>
       <contributor>Rodrigues, Agostinho, poet</contributor>
       <contributor>Bezerra, Ricardo, poet</contributor>
       <contributor>Turbino, Nina, poet</contributor>
-      <contributor>Souza, Jurema Barreto, poet</contributor>
-      <contributor>Wanke, Eno Theodoro, poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <date>April 1995; November 1993; May/June 1995; June/July 1993; April/May 1993; August/September 1993; October/November 1993; January/February 1994; May/June 1994; July/August 1994; January/February 1995</date>
       <type>Poetry</type>
       <format>11 volumes ; illustrations : 21 x 16 cm</format>
@@ -411,6 +413,14 @@
       <description>Holdings: no. 1, yr. 1</description>
       <description>Notes: </description>
       <publisher>Grupo Nós Atados</publisher>
+      <contributor>Ferreira, Fátima F., collaborator</contributor>
+      <contributor>Santos, Samuel Ferreira dos, collaborator</contributor>
+      <contributor>Silva, Sérgio Lima, collaborator</contributor>
+      <contributor>Zizo, José Mario, collaborator</contributor>
+      <contributor>Vieira, Genivaldo Souza, collaborator</contributor>
+      <contributor>Maia, Fred, collaborator</contributor>
+      <contributor>Helena, Marta, collaborator</contributor>
+      <contributor>Prado, Cynthia, collaborator</contributor>
       <date>Nov 1980</date>
       <type>Poetry</type>
       <type>Newsletter</type>
@@ -419,14 +429,20 @@
    </metadata>
    <metadata>
       <title>ALARP</title>
+      <creator>Reis, Cléo, coordinator</creator>
       <subject>Academia</subject>
       <subject>Literary</subject>
       <subject>Education</subject>
       <subject>Gender</subject>
-      <description>Holdings: (May 95); (Aug/Sep 95); (Sep 97); (1998)</description>
+      <description>Holdings: (May 1995); (Aug/Sep 1995); (Sep 1997); (1998)</description>
       <description>Notes: </description>
       <publisher>Academia de Letras e Artes de Riberão Preto</publisher>
-      <date>May 95; Aug/Sep 95; Sep 97; 1998</date>
+      <contributor>Silva, Adriana, journalist-in-chief</contributor>
+      <contributor>Roselino, Sylvia, copy editor</contributor>
+      <contributor>Lacerda, Oscar Luiz de Moura, editor</contributor>
+      <contributor>Yanni, Jair, editor</contributor>
+      <contributor>Campaz, Norma Luzano, editor</contributor>
+      <date>May 1995; Aug/Sep 1995; Sep 1997; 1998</date>
       <type>Poetry</type>
       <type>Newsletter</type>
       <identifier>Box 1, Folder 18</identifier>
@@ -479,7 +495,6 @@
       <contributor>Viveiros, Luiz Sérgio de, poet</contributor>
       <contributor>Marinho, Emanoel, poet</contributor>
       <contributor>Ribeiro, P. J., poet</contributor>
-      <contributor>Nicolas Behr, Kátia Bento, Luiz Sérgio de Viveiros, Emanoel Marinho, P. J. Ribeiro, poet</contributor>
       <date>Nov 82/ May 83; May 87; Jun 85</date>
       <type>Poetry</type>
       <type>Magazine</type>
@@ -493,6 +508,12 @@
       <description>Holdings: no. 1-2, yr. 1 (1993); no. 5-6, yr. 2 (1994); no. 8-9, yr. 3 (1995); no. 15 (undated); no. 16-17, yr. 5 (1997)</description>
       <description>Notes: </description>
       <publisher>Grupo Edições de Minas</publisher>
+      <contributor>Théres, Ymah, collaborator</contributor>
+      <contributor>Gonçalves, Marta, collaborator</contributor>
+      <contributor>Lopes, Aymar de Mendonça, collaborator</contributor>
+      <contributor>Noronha, Maria Thereza, collaborator</contributor>
+      <contributor>Araújo, Maria Aparecida Reis, collaborator</contributor>
+      <contributor>Rainho, Cleonice, collaborator</contributor>
       <date>1993; 1994; 1995; 1997</date>
       <type>Poetry</type>
       <identifier>Box 1, Folder 21</identifier>
@@ -503,10 +524,21 @@
       <subject>Literary</subject>
       <subject>Sexuality</subject>
       <subject>Music</subject>
-      <description>Holdings: (Sep 1979); no. 3 (1980)</description>
+      <description>Holdings: (Sep 1979); no. 3 (1981)</description>
       <description>Notes: The first issue has no number and the date is gained from postage; a letter is also included in no. 3</description>
       <publisher/>
-      <date>[Sep 1979]?; [1980]?</date>
+      <contributor>Cortez, Luciano, poet</contributor>
+      <contributor>Dolabela, Marcelo, poet</contributor>
+      <contributor>Aguiar, Avanilton de, poet</contributor>
+      <contributor>Bruscky, Paulo, poet</contributor>
+      <contributor>Villares, Lucia, poet</contributor>
+      <contributor>Behr, Nicolas, poet</contributor>
+      <contributor>Cardoso, Tanussi, poet</contributor>
+      <contributor>Araújo, Carlos, poet</contributor>
+      <contributor>Faria, Vinícius de, poet</contributor>
+      <contributor>Barroso, Carlos, poet</contributor>
+      <contributor>Bueno, André, poet</contributor>
+      <date>Sep 1979; 1981</date>
       <type>Zine</type>
       <identifier>Box 1, Folder 22</identifier>
       <coverage>Belo Horizonte, MG</coverage>
@@ -525,7 +557,7 @@
       <publisher>Lins, Zulmira, </publisher>
       <contributor>Cardoso, Tanussi, poet</contributor>
       <contributor>Lima, Lauro de Oliveira, poet</contributor>
-      <contributor>Pereira, Terezinka, poet</contributor>
+      <contributor>Pereira, Teresinka, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
       <contributor>Luis, poet</contributor>
       <contributor>Carneiro, João, poet</contributor>
@@ -551,10 +583,20 @@
 
    <metadata>
       <title>Aliás</title>
+      <creator>Vieira, Paulo, editor</creator>
+      <creator>Magalhães, Henrique, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 2, yr. 1</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Lucena, Antonio, collaborator</contributor>
+      <contributor>Farias, Berna, collaborator</contributor>
+      <contributor>Costa Filho, Aluísio, collaborator</contributor>
+      <contributor>Tarso, Paulo de, collaborator</contributor>
+      <contributor>Figueiredo, Gláucio, collaborator</contributor>
+      <contributor>Vieira, Paulo, collaborator</contributor>
+      <contributor>Magalhães, Henrique, collaborator</contributor>
+      <contributor>Augusto, Elmano, collaborator</contributor>
       <date>Feb 1978</date>
       <type>Poetry</type>
       <type>Literary Magazine</type>
@@ -605,7 +647,7 @@
       <contributor>Assis, Paulo D., poet</contributor>
       <contributor>Daher, Fahed, poet</contributor>
       <contributor>Santos, Luis de Mello, poet</contributor>
-      <contributor>Wanke, Eno K. Teodoro, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
       <contributor>Frigeri, Maria Aparecida Machado, poet</contributor>
       <contributor>Silva, Josafá Costa da, poet</contributor>
@@ -618,10 +660,18 @@
    </metadata>
    <metadata>
       <title>Alô</title>
+      <creator>Preta, Itabajara Catta, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 9-12</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Mondim, Guido, poet</contributor>
+      <contributor>Pedro, Albertina Moreira, poet</contributor>
+      <contributor>Teixeira, Murilo, poet</contributor>
+      <contributor>Mota, Marinha, poet</contributor>
+      <contributor>Soares, Elisete, poet</contributor>
+      <contributor>Barreto, Silva, poet</contributor>
+      <contributor>Souza, Reis de, poet</contributor>
       <date>Jul 1994-May 1995</date>
       <type>Poetry</type>
       <type>Zine</type>
@@ -664,7 +714,7 @@
       <contributor>Leontino, poet</contributor>
       <contributor>Marin, Álvaro, poet</contributor>
       <contributor>Silva, Odiné Ferreira Silva, writer</contributor>
-      <contributor>Comes, Artur, poet</contributor>
+      <contributor>Gomes, Artur, poet</contributor>
       <contributor>Xavier, Inaldo, poet</contributor>
       <date>Jan-May 1988; Aug 1988; Jan 1993; May 1993</date>
       <type>Zine</type>
@@ -699,6 +749,7 @@
    </metadata>
    <metadata>
       <title>AME Jornal</title>
+      <creator>Paioli, Waldemar, president</creator>
       <subject>Ecology</subject>
       <description>Holdings: (Sep 1990); no. 1-4, yr. 1 (Oct 1990-Jan 1991)</description>
       <description>Notes: 2 copies of no. 4</description>
@@ -727,7 +778,7 @@
       <contributor>Barros, Almir Castro, poet</contributor>
       <contributor>Agudelo, Juan, poet</contributor>
       <contributor>Galassi, Luis Alberto Bravo, poet</contributor>
-      <contributor>Sobreira, Caeser, poet</contributor>
+      <contributor>Sobreira, Caesar, poet</contributor>
       <contributor>Vieira, Geni, poet</contributor>
       <contributor>Holanda, Celina de, poet</contributor>
       <publisher/>
@@ -826,11 +877,20 @@
    </metadata>
    <metadata>
       <title>Anote</title>
+      <creator>Macedo, M., director</creator>
       <subject>Literary</subject>
       <subject>Sexuality</subject>
       <description>Holdings: no. 4-6, yr. 1</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Schmidt, Jurandir, artist</contributor>
+      <contributor>Costa Velho, Laís da, poet</contributor>
+      <contributor>Rocha, Santa Inèze Domingues da, poet</contributor>
+      <contributor>Sant’Anna, Clério José Borges de, poet</contributor>
+      <contributor>Alves, Gedeão, poet</contributor>
+      <contributor>Viana, Denise Teixeira, poet</contributor>
+      <contributor>Frank, Paulina M., poet</contributor>
+      <contributor>Justus, Leonilda Hilgenberg, poet</contributor>
       <date>Apr-Jun 1989</date>
       <type>Zine</type>
       <type>Poetry</type>
@@ -896,7 +956,7 @@
       <contributor>Tosto Filho, Antonio Raymundo, writer</contributor>
       <contributor>Guimarães, Maria Dalva J., writer</contributor>
       <contributor>Aguiar, Moacir de, writer</contributor>
-      <contributor>Guggiana, Paulo César G., writer</contributor>
+      <contributor>Guggiana, Paulo César Gutierres, writer</contributor>
       <publisher/>
       <date>Jul 1995</date>
       <format>1 volume (76 pages) : 28 x 20 cm</format>
@@ -906,7 +966,7 @@
    <metadata>
       <title>Aqui Ó</title>
       <subject>Literary</subject>
-      <description>Holdings: </description>
+      <description>Holdings: (1979)</description>
       <description>Notes: </description>
       <publisher>Herzog, D.A. Vladmir</publisher>
       <date>1979</date>
@@ -928,11 +988,35 @@
    </metadata>
    <metadata>
       <title>Arca / Jornal da ARCA</title>
+      <creator>Pacheco, Eloyr Doin, editor</creator>
+      <creator>Pacheco, Yara Rodrigues, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 1-12, yr. 1-3</description>
       <description>Notes: </description>
       <publisher/>
-      <date>Jul 1985-Oct</date>
+      <contributor>Oliveira, Ediméia L. S., assistant editor</contributor>
+      <contributor>Nandes, Roberto, assistant editor</contributor>
+      <contributor>Magalhães, Valdenir Teles, assistant editor</contributor>
+      <contributor>Franco, Luiz Carlos Leme, poet</contributor>
+      <contributor>Brito, Orlando, poet</contributor>
+      <contributor>Chiquinho, poet</contributor>
+      <contributor>Lima, Benedito C. G., poet</contributor>
+      <contributor>Raymundi, Lacy José, poet</contributor>
+      <contributor>Ramires, A. Isaías, poet</contributor>
+      <contributor>Lima, Batista de, poet</contributor>
+      <contributor>Reis, Eloésio Paulo dos, poet</contributor>
+      <contributor>Duarte, Osvaldo Copertino, poet</contributor>
+      <contributor>Curvello, Aricy, poet</contributor>
+      <contributor>Almeida, Márcio de, poet</contributor>
+      <contributor>Magalhães, Valdenir Teles, poet</contributor>
+      <contributor>Debértolis, Karen Silva, poet</contributor>
+      <contributor>Fonseca, Aglaia da, poet</contributor>
+      <contributor>Fafau, Luiz, poet</contributor>
+      <contributor>Míccolis, Leila, poet</contributor>
+      <contributor>Buss, Alcides, poet</contributor>
+      <contributor>Feldman, Cláudio, poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
+      <date>Jul 1985-Oct 1987</date>
       <type>Zine</type>
       <type>Poetry</type>
       <identifier>Box 2, Folder 19</identifier>
@@ -953,10 +1037,18 @@
    </metadata>
    <metadata>
       <title>Arrecifes</title>
+      <creator>Bezerra, Poliana, producer</creator>
+      <creator>Melo Neto, Luiz Eurico de, producer</creator>
+      <creator>Serpa, Fernando, producer</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 2, yr. 1</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Fontes, Leônidas, collaborator</contributor>
+      <contributor>Afonso, Diógenes, collaborator</contributor>
+      <contributor>Paxelly, Eugênio, collaborator</contributor>
+      <contributor>Souza, Jurema Barreto de, collaborator</contributor>
+      <contributor>Zemaria, collaborator</contributor>
       <date>Jun 1994</date>
       <type>Zine</type>
       <type>Poetry</type>
@@ -1042,7 +1134,7 @@
       <publisher/>
       <contributor>Santana, Erorci, layout designer and artist</contributor>
       <contributor>Mexicana, Figura, artist</contributor>
-      <contributor>Veras, Dalila Teres, journalist</contributor>
+      <contributor>Veras, Dalila Teles, journalist</contributor>
       <contributor>Cardoso, Manoel, author</contributor>
       <contributor>Calindo, Jairo, journalist</contributor>
       <contributor>Xavier, Arnaldo, journalist</contributor>
@@ -1170,12 +1262,23 @@
 
    <metadata>
       <title>Artefato</title>
+      <creator>Azevedo, Beatriz Sampaio, director</creator>
       <subject>Music</subject>
       <subject>Theater</subject>
       <subject>Culture</subject>
       <description>Holdings: no. 4-5</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Souto, Ana Maria, producer</contributor>
+      <contributor>Rebuá, Carmelita, producer</contributor>
+      <contributor>William, Davi, producer</contributor>
+      <contributor>Tarley, Luis, producer</contributor>
+      <contributor>Sucupira, Mônica, producer</contributor>
+      <contributor>Mundt, Sérgio, producer</contributor>
+      <contributor>Berlinck, Tosta, collaborator</contributor>
+      <contributor>Salgado, Rogério, collaborator</contributor>
+      <contributor>Dias, Eduardo, collaborator</contributor>
+      <contributor></contributor>
       <date>Mar-Apr 1986</date>
       <type>Newspaper</type>
       <identifier>Box 3, Folder 8</identifier>
@@ -1183,9 +1286,10 @@
    </metadata>
    <metadata>
       <title>Arte-final</title>
+      <creator>Silva, Rosevaldo Alves da, editor</creator>
       <subject>Humor</subject>
       <subject>Comics</subject>
-      <description>Holdings: no. 3</description>
+      <description>Holdings: no. 3 (undated)</description>
       <description>Notes: </description>
       <publisher>Fanzine do Clube Watson</publisher>
       <date/>
@@ -1198,11 +1302,13 @@
    </metadata>
    <metadata>
       <title>Artegeral</title>
+      <creator>Rodrigues, Sérgio, editor</creator>
       <subject>Sexuality</subject>
       <subject>Entertainment</subject>
       <description>Holdings: no. 8, yr. 1 (Dec 1993); no. 9, yr. 2 (Jan 1994); no. 12, yr. 1 (Apr 1994)</description>
       <description>Notes: </description>
       <publisher>Amiron Produções</publisher>
+      <contributor>Santos, Vandir dos, journalist-in-chief</contributor>
       <date>Dec 1993; Jan 1994; Apr 1994</date>
       <type>Zine</type>
       <identifier>Box 3, Folder 10</identifier>
@@ -1243,6 +1349,7 @@
       <description>Holdings: </description>
       <description>Notes: </description>
       <publisher>Quadrinhos Abriu, Quadrinhos Fechou</publisher>
+      <contributor>Mattoso, Glauco, cartoonist</contributor>
       <date>1990</date>
       <type>Comics</type>
       <identifier>Box 3, Folder 13</identifier>
@@ -1255,6 +1362,12 @@
       <description>Holdings: no. 3</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Pires, Airton, collaborator</contributor>
+      <contributor>Castanheiro, Gaet, collaborator</contributor>
+      <contributor>Kosmar, collaborator</contributor>
+      <contributor>Lili, Paulo, collaborator</contributor>
+      <contributor>Garrido, Luar, collaborator</contributor>
+      <contributor>Kzé, collaborator</contributor>
       <date>1986</date>
       <type>Poetry</type>
       <identifier>Box 3, Folder 14</identifier>
@@ -1266,6 +1379,13 @@
       <description>Holdings: no. 0</description>
       <description>Notes: </description>
       <publisher/>
+      <contributor>Parulla, Maira, collaborator</contributor>
+      <contributor>Dulci, Luis Soares, collaborator</contributor>
+      <contributor>Cardoso, César, collaborator</contributor>
+      <contributor>Castello Branco, José, collaborator</contributor>
+      <contributor>Adauto, collaborator</contributor>
+      <contributor>Hermann, Claudius, collaborator</contributor>
+      <contributor>Barros, Durval C., collaborator</contributor>
       <date>Sep 1975</date>
       <type>Magazine</type>
       <identifier>Box 3, Folder 15</identifier>
@@ -1379,6 +1499,22 @@
       <description>Holdings: no. 23-29, yr. 3 (Sep 1985-Apr); no. 31, yr. 3 (Jun 1986); no. 33-40, yr. 4 (Jul 1986-Feb); no. 42-43, yr. 4 (Mar-Apr 1987); no. 45-46, yr. 5 (Jun-Jul 1987); no. 48-51, yr. 5 (Sep-Dec 1987); no. 54, yr. 5 (Mar 1988); no. 57-59, yr. 5-6 (Jun-Sep 1988); no. 66, yr. 7 (Apr/May 1990); no. 68- 74, yr. 8 (Nov 1990-)</description>
       <description>Notes: 2 copies of no. 69, 72</description>
       <publisher/>
+      <contributor>Menezes, Nivaldo, poet</contributor>
+      <contributor>Mizael, Jorge, poet</contributor>
+      <contributor>Schmidt, Jurandir, poet</contributor>
+      <contributor>Leontino, Raimundo, poet</contributor>
+      <contributor>Pereira, Teresinka, poet</contributor>
+      <contributor>Vieira, Jaime, poet</contributor>
+      <contributor>Ramos, Mila, poet</contributor>
+      <contributor>Bella, Antonio, poet</contributor>
+      <contributor>Marian, Corine, poet</contributor>
+      <contributor>Aquino, Ricardo, poet</contributor>
+      <contributor>Cordeiro, Zé, poet</contributor>
+      <contributor>Pedrosa, Ari Lins, poet</contributor>
+      <contributor>Debértolis, Karen, poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
+      <contributor>Lete, Hélio, poet</contributor>
+      <contributor>Vebber, Ivone, poet</contributor>
       <date>Sep 1985-Apr; Jun 1986; Jul 1986-Feb; Mar-Apr 1987; Jun-Jul 1987; Sep-Dec 1987; Mar 1988; Jun-Sep 1988; Apr/May 1990; Nove 1990-</date>
       <type>Zine</type>
       <type>Poetry</type>
@@ -1400,9 +1536,17 @@
    </metadata>
    <metadata>
       <title>Avessia</title>
+      <creator>Viveiros, Luiz Sérgio de, director</creator>
       <description>Holdings: no. 1, yr. 1 (Oct 1984); no. 1, yr. 1 (Jul 1986)</description>
       <description>Notes: folder includes note to Leila; 1986 edition is a literary handout.</description>
       <publisher>L.M. Promoções &amp; Marketing s/c Ltda.</publisher>
+      <contributor>Avelima, Luis, collaborator</contributor>
+      <contributor>Hoffmann, Eduardo, collaborator</contributor>
+      <contributor>Barone, Modesto, collaborator</contributor>
+      <contributor>Carvalho, Maria Angélica de Oliveira, collaborator</contributor>
+      <contributor>Avancini, Atílio, collaborator</contributor>
+      <contributor>Menezes, Nivaldo, collaborator</contributor>
+      <contributor>Mattoso, Glauco, collaborator</contributor>
       <date>Oct 1984; Jul 1986</date>
       <type>Zine</type>
       <type>Literary Magazine</type>
@@ -1638,7 +1782,6 @@
       <contributor>Otávio, Maria Elena, writer</contributor>
       <contributor>Virgílio, Paulo, poet</contributor>
       <contributor>Gomes, Artur, poet</contributor>
-      <contributor>Silva, Belmiro F., poet</contributor>
       <date>Jul 1984-Jun 1987; Apr 1987</date>
       <type>Zine</type>
       <type>Literary Newsletter</type>
@@ -1686,7 +1829,7 @@
    </metadata>
    <metadata>
       <title>Beija-Flor News/Jornal Beija Flor</title>
-      <creator>Borge, Clério José, editor</creator>
+      <creator>Sant'Anna, Clério José Borges, editor</creator>
       <subject>Ballads</subject>
       <subject>Poetry</subject>
       <subject>Troubadours</subject>
@@ -2299,17 +2442,16 @@
       <description>Notes: </description>
       <publisher>Instituto Cultural Português</publisher>
       <contributor>Mello, Marlene, secretary</contributor>
-      <contributor>Rocha, Santa Ineze Domingues da, administrator</contributor>
-      <contributor>Rocha, Santa Ineze da, copy editor</contributor>
+      <contributor>Rocha, Santa Inèze Domingues da, copy editor</contributor>
       <contributor>Braga, Danilo, artist</contributor>
       <contributor>Lima, Alsina Alves de, poet</contributor>
-      <contributor>Ramires, A. Isaias, poet</contributor>
+      <contributor>Ramires, A. Isaías, poet</contributor>
       <contributor>Gomes, Aparecida de Oliveira, poet</contributor>
       <contributor>Pacheco, Ethel Graca, poet</contributor>
       <contributor>Tavares, Willy, poet</contributor>
       <contributor>Silva, Adenildo Miranda da, poet</contributor>
       <contributor>Melo, Cida, poet</contributor>
-      <contributor>Alverga, Geraldi, poet</contributor>
+      <contributor>Alverga, Geraldo, poet</contributor>
       <contributor>Moraes, Irene Ponciano de, poet</contributor>
       <contributor>Costa, Rafael, poet</contributor>
       <contributor>Pereira, Marciano Vasques, poet</contributor>
@@ -2856,7 +2998,7 @@
       <creator>Polverel, André de, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 1-4 (Jul 1994-May 1995); no. 6-10 (Apr 1996-Jul 1997)</description>
-      <description>Contents: Canto Ao Futuro (poem by Ricardo Alfava), No. 7, page 5</description>
+      <description>Contents: Canto Ao Futuro (poem by Ricardo Alfaya), No. 7, page 5</description>
       <description>Notes: 2 copies of no. 8</description>
       <description>Pagination: 8 pages</description>
       <publisher>Morais, Círculo de Poetas Vinícius de, </publisher>
@@ -2864,7 +3006,7 @@
       <contributor>Maier, Glenda, poet</contributor>
       <contributor>Leite, Anna, poet</contributor>
       <contributor>Caetano, Alcione D., poet</contributor>
-      <contributor>Alfava, Ricardo, poet</contributor>
+      <contributor>Alfaya, Ricardo, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
       <date>Jul 1994-May 1995; Apr 1996-Jul 1997</date>
       <type>Zine</type>
@@ -3002,7 +3144,7 @@
       <contributor>Peixoto, Maria Miralva Ribeiro, treasurer</contributor>
       <contributor>Barbosa, Maria Valdeci Simões, secretary</contributor>
       <contributor>Carvalho, Ricardo, editorial coordinator</contributor>
-      <contributor>Alves, Prof. Jozefa Ribeiro(ziza), writer</contributor>
+      <contributor>Alves, Prof. Jozefa Ribeiro (ziza), writer</contributor>
       <date>Aug 20, 1982</date>
       <type>Newspaper</type>
       <format>1 volume (4 pages) : 33 x 24 cm</format>
@@ -3068,7 +3210,7 @@
       <description>Pagination: 2 pages</description>
       <description>Notes: All issues stapled together</description>
       <publisher/>
-      <contributor>Costa, Silvério da, writer</contributor>
+      <contributor>Costa, Silvério Ribeiro da, writer</contributor>
       <contributor>Mello, Márcio J. de, writer</contributor>
       <contributor>Rubens, Jack, writer</contributor>
       <contributor>Tavares, Bráulio, writer</contributor>
@@ -3161,7 +3303,7 @@
       <contributor>Cardoso, Moema, poet</contributor>
       <contributor>Dolabela, Marcelo, poet</contributor>
       <contributor>Nascimento, José Marinho do, poet</contributor>
-      <contributor>Lima, Benedito CG, poet</contributor>
+      <contributor>Lima, Benedito C. G. de, poet</contributor>
       <date>undated; Dec 25, 1983; 1984-Jul 1990</date>
       <type>Literary Magazine</type>
       <type>Zine</type>
@@ -3238,7 +3380,7 @@
       <contributor>Feldman, Cláudio, poet</contributor>
       <contributor>Curvello, Aricy, poet</contributor>
       <contributor>Cardoso, Manoel, writer</contributor>
-      <contributor>Perreira, Teresinka, writer</contributor>
+      <contributor>Pereira, Teresinka, writer</contributor>
       <date>May 1978; Jul 1984</date>
       <type>Literary Magazine</type>
       <format>4 volumes : 22 x 15 cm</format>
@@ -3407,7 +3549,7 @@
       <publisher/>
       <contributor>Heber, designer</contributor>
       <contributor>Godoy, Jair, designer</contributor>
-      <contributor>Prado, Anita C., poet</contributor>
+      <contributor>Prado, Anita Costa, poet</contributor>
       <contributor>Salles, Marcelo R. G., poet</contributor>
       <contributor>Edy (FDR), poet</contributor>
       <contributor>Rogério, writer</contributor>
@@ -3855,7 +3997,7 @@
       <description>Pagination: 12 pages</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Chacon, Beatriz, poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
       <contributor>Rodrigues, Léa, poet</contributor>
       <contributor>Prado, Lucy, poet</contributor>
       <contributor>Matheus, Ilka, writer</contributor>
@@ -4276,13 +4418,13 @@
       <creator>Cavalcanti, José Antônio, editor</creator>
       <subject>Literary</subject>
       <description>Holdings: no. 1-3, yr. 1-2</description>
-      <description>Contents: Espaco Opaco (poem by Paco C.A.C.), no. 1, page 7</description>
+      <description>Contents: Espaco Opaco (poem by Paco Cac), no. 1, page 7</description>
       <description>Contents: Negra Poesia (poem by Luiz Fernando de Andrade), no. 1, page 11</description>
       <description>Pagination: 16 pages</description>
       <description>Notes: 2 copies of no. 2</description>
       <publisher/>
       <contributor>Andrade, Luiz Fernando de, poet</contributor>
-      <contributor>Paco C.A.C., poet</contributor>
+      <contributor>Paco Cac, poet</contributor>
       <date>Nov 1977-Aug</date>
       <type>Zine</type>
       <type>Poetry</type>
@@ -4340,7 +4482,7 @@
       <description>Pagination: 2 pages</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Bacca, Ademir A., poet</contributor>
+      <contributor>Bacca, Ademir Antonio, poet</contributor>
       <contributor>Amaral, Euclides, poet</contributor>
       <contributor>França, Creusa C., poet</contributor>
       <contributor>Martins, Alvaro, poet</contributor>
@@ -4879,10 +5021,10 @@
         <contributor>Rocha, R. Basilio, writer</contributor>
         <contributor>Almandrade, poet</contributor>
         <contributor>Pio, Djanira, poet</contributor>
-        <contributor>Milanese, Lucila, writer</contributor>
+        <contributor>Milanese, Lucilla, writer</contributor>
         <contributor>Maestro, Humberto Del, poet</contributor>
         <contributor>Pereira, Teresinka, poet</contributor>
-        <contributor>Wanke, Eno Theodoro, poet</contributor>
+       <contributor>Wanke, Eno Teodoro, poet</contributor>
         <contributor>Fernandes, Maria Cristina, poet</contributor>
         <date>Apr 1997-Feb; Jun-Oct 1998; Jan/Jun 1999</date>
         <type>Newsletter</type>
@@ -5078,11 +5220,11 @@
       <contributor>Faria, Hamilton, poet</contributor>
       <contributor>Freitas, Iacyr Anderson, poet</contributor>
       <contributor>Sant’Anna, Affonso Romano de, poet</contributor>
-      <contributor>Chacon, Beatriz Escorcio, poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
       <contributor>Cardias, J., poet</contributor>
       <contributor>Buss, Alcides, poet</contributor>
       <contributor>Bernis, Yeda Prates, poet</contributor>
-      <contributor>Théres, Yhmah, poet</contributor>
+      <contributor>Théres, Ymah, poet</contributor>
       <contributor>Hughes, Langston, poet</contributor>
       <contributor>Lorde, Audre, poet</contributor>
       <contributor>Camargo, Oswaldo de, poet</contributor>
@@ -5136,8 +5278,8 @@
       <contributor>Faria, Hamilton, poet</contributor>
       <contributor>Guggiana, Paulo César Gutierres, poet</contributor>
       <contributor>Schmidt, Jurandir, poet</contributor>
-      <contributor>Borges, Clério José, poet</contributor>
-      <contributor>Vebber, Ivon, poet</contributor>
+      <contributor>Sant'Anna, Clério José Borges, poet</contributor>
+      <contributor>Vebber, Ivone, poet</contributor>
       <contributor>Souza, Jurema Barreto de, poet</contributor>
       <contributor>Santos, Roberto Luiz dos, poet</contributor>
       <contributor>Nascimento, José Marinho do, poet</contributor>
@@ -5152,7 +5294,7 @@
       <contributor>Mattos, Marisa, writer</contributor>
       <contributor>Gomes, Artur, writer</contributor>
       <contributor>Salgado, Rogério, writer</contributor>
-      <contributor>Wanke, Eno Theodoro, writer</contributor>
+      <contributor>Wanke, Eno Teodoro, writer</contributor>
       <contributor>Lima, Batista de, writer</contributor>
       <contributor>Coelho Neto, Cándido, poet</contributor>
       <date>Sep 1984-Mar 1985</date>
@@ -5404,7 +5546,7 @@
       <contributor>Russowsky, Miguel, writer</contributor>
       <contributor>Fonseca, José de Oliveira</contributor>
       <contributor>Oliveira Neto, Acácio de, writer</contributor>
-      <contributor>A. e Silva, Célia Rangel de, writer</contributor>
+      <contributor>Silva, Célia Rangel de Almeida e, writer</contributor>
       <contributor>Dupré, Fanny, writer</contributor>
       <contributor>Carvalho, Osael de, writer</contributor>
       <contributor>Albuquerque, Aníbal, writer</contributor>
@@ -5845,7 +5987,7 @@
       <contributor>Malty, Miguel J., writer</contributor>
       <contributor>Volpato, Irineu, writer</contributor>
       <contributor>Alverga, Marisa, writer</contributor>
-      <contributor>Pereira, Teresinha, writer</contributor>
+      <contributor>Pereira, Teresinka, writer</contributor>
       <contributor>Cabral, Astrid, writer</contributor>
       <contributor>Míccolis, Leila, writer</contributor>
       <contributor>Arruda, Rose de, writer</contributor>
@@ -5979,7 +6121,7 @@
       <contributor>Agra, Jakson da Costa, editor</contributor>
       <contributor>Carvalho, Antonio Morais de, co-editor</contributor>
       <contributor>Guimarães, Ariosvaldo, co-editor</contributor>
-      <contributor>Barbosa Fiho, Hildeberto, writer</contributor>
+      <contributor>Barbosa Filho, Hildeberto, writer</contributor>
       <contributor>Pontes, Juca, writer</contributor>
       <contributor>Mariheiro, Lisanka Paola, writer</contributor>
       <contributor>Vaz, Fernando, writer</contributor>
@@ -6600,7 +6742,7 @@
       <description>Notes: </description>
       <publisher/>
       <contributor>Fidelis, Cecília, poet</contributor>
-      <contributor>Santos, Diniz Felix dos, poet</contributor>
+      <contributor>Santos, Diniz Félix dos, poet</contributor>
       <contributor>Magalhães, José, poet</contributor>
       <contributor>Matter, Wiljar José, poet</contributor>
       <contributor>Araújo, Vera Lúcia de, poet</contributor>
@@ -7129,7 +7271,7 @@
       <contributor>Waeny, Walter, poet</contributor>
       <contributor>Frey, Gino, poet</contributor>
       <contributor>Araújo, Raimundo, poet</contributor>
-      <contributor>Santos, Diniz Felix dos, poet</contributor>
+      <contributor>Santos, Diniz Félix dos, poet</contributor>
       <contributor>Carcano, Marlene, poet</contributor>
       <contributor>Tavares, Zedônove, poet</contributor>
       <contributor>Maués, Kátia, poet</contributor>
@@ -7286,7 +7428,7 @@
       <description>Notes: no. 3-5 list months but not year. 2 copies of no. 47, no. 49/50, 50/51 joint issues; yrs. begin being listed
          at no. 40. 2 copies 0f no. 55 and 56; no. 56 lists month but not year. 2 copies of no. 59</description>
       <publisher/>
-      <contributor>Curvelo, Aricy, poet</contributor>
+      <contributor>Curvello, Aricy, poet</contributor>
       <contributor>Morato, Dudu, poet</contributor>
       <contributor>Claudia, poet</contributor>
       <contributor>Furtado, Fernando Fábio Fiorese, poet</contributor>
@@ -7564,9 +7706,9 @@
       <contributor>Reis, Ney, poet</contributor>
       <contributor>Furtado, Fernando Fábio Fiorese, poet</contributor>
       <contributor>Lete, Hélio, poet</contributor>
-      <contributor>HCardias, J., poet</contributor>
+      <contributor>Cardias, J., poet</contributor>
       <contributor>Marques, Núbia, poet</contributor>
-      <contributor>Lima e Silva, Sérgio, poet</contributor>
+      <contributor>Silva, Sérgio Lima e, poet</contributor>
       <contributor>Benoliel, Messody, poet</contributor>
       <contributor>Vieira, Iara, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
@@ -7704,7 +7846,7 @@
       <description>Notes: 2 copies of no. 29 and no. 30.</description>
       <publisher/>
       <contributor>Moreira, Ziney Santos, poet</contributor>
-      <contributor>Menor, Edmo Raimundo de A., poet</contributor>
+      <contributor>Albuquerque Menor, Edmo Raimundo de, poet</contributor>
       <contributor>Dias, Marina de Fátima, poet</contributor>
       <contributor>Bressani, Júlio, poet</contributor>
       <contributor>Figueira, Valter, poet</contributor>
@@ -7801,7 +7943,7 @@
       <contributor>Ramos, Áureo, poet</contributor>
       <contributor>Maier, Glenda, poet</contributor>
       <contributor>Lopes, Adão, poet</contributor>
-      <contributor>Dorneles, Leinecy, poet</contributor>
+      <contributor>Dornelles, Leinecy, poet</contributor>
       <contributor>Bueno, Eunice, poet</contributor>
       <contributor>Cavalcante, Leonel, poet</contributor>
       <contributor>Garrido, Helena Cristina. poet</contributor>
@@ -7929,13 +8071,13 @@
       <contributor>Kropf, Henry, poet</contributor>
       <contributor>Cagiano, Ronaldo, poet</contributor>
       <contributor>Amorim, Olga, poet</contributor>
-      <contributor>Pettená, Arita D., poet</contributor>
+      <contributor>Pettená, Arita Damasceno, poet</contributor>
       <contributor>Carvalho,  Osael de, poet</contributor>
       <contributor>Calandra,  Maria Aparecida M., poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
-      <contributor>Martins, Zacaria, poet</contributor>
+      <contributor>Martins, Zacarias, poet</contributor>
       <contributor>Pereira, Rosemary L., poet</contributor>
-      <contributor>Costa, Silvério, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Dornelles, Leinecy, poet</contributor>
       <contributor>Vebber, Ivone, poet</contributor>
       <contributor>Fachinelli, Nelson, poet</contributor>
@@ -7943,7 +8085,7 @@
       <contributor>Arthur Filho, poet</contributor>
       <contributor>Rubens, Jack, poet</contributor>
       <contributor>Nóbrega, Arlindo, poet</contributor>
-      <contributor>Pereira, Abel, poet</contributor>
+      <contributor>Pereira, Abel B., poet</contributor>
       <contributor>Maier, Glenda, poet</contributor>
       <date>Sep-Oct 1995; Feb 1996; May/Jun 1996; Nov 1996-Feb; May/Jun 1997; Sep 1997-Dec; Jan/Feb 1999; May 1999-Dec</date>
       <type>Poetry</type>
@@ -8082,14 +8224,14 @@
       <subject>Slavery</subject>
       <description>Holdings: no. 134, yr. 22</description>
       <description>Contains description of the association that publishes the newsletter. Also contains poetry on the subject of slavery.</description>
-      <description>Contents: Acróstico (poem by Hildemar de Araujo Costa), page 3</description>
+      <description>Contents: Acróstico (poem by Hildemar de A. Costa), page 3</description>
       <description>Contents: Castro Alves (poem by Kleber Cruz), page 3</description>
       <description>Contents: Castro Alves (poem by Nilson Petronilo de Souza), page 3</description>
       <description>Notes: </description>
       <publisher>Lions Clube de Muritiba</publisher>
       <contributor>Souza, Nilson Petronilo de, poet</contributor>
       <contributor>Cruz, Kleber, poet</contributor>
-      <contributor>Costa, Hildemar de Araujo, poet</contributor>
+      <contributor>Costa, Hildemar de A., poet</contributor>
       <date>Oct/Nov/Dec 1990</date>
       <type>Newsletter</type>
       <type>Poetry</type>
@@ -8122,7 +8264,7 @@
       <contributor>Romani, Danielle, poet</contributor>
       <contributor>Savary, Olga, poet</contributor>
       <contributor>Behr, Nicolas, poet</contributor>
-      <contributor>Palottini, Renata, poet</contributor>
+      <contributor>Pallottini, Renata, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
       <contributor>Gullar, Ferreira, poet</contributor>
       <contributor>Waki, Akemi, poet</contributor>
@@ -8165,8 +8307,8 @@
       <contributor>Galli, Ubirajara, writer</contributor>
       <contributor>Bueloni, Marisa, writer</contributor>
       <contributor>Venâncio, Nirton, writer</contributor>
-      <contributor>Fidelli, Cecilia, writer</contributor>
-      <contributor>Costa, Silvério da, writer</contributor>
+      <contributor>Fidelli, Cecília, writer</contributor>
+      <contributor>Costa, Silvério Ribeiro da, writer</contributor>
       <contributor>Domingos, Jorge, writer</contributor>
       <contributor>Dolabela, Marcelo, writer</contributor>
       <contributor>Amaral, Euclides, writer</contributor>
@@ -8188,7 +8330,8 @@
       <contributor>Samis, Alexandre, editor</contributor>
       <contributor>Cesário, Aloísio, editor</contributor>
       <contributor>Sanz, Luiz, editor</contributor>
-      <contributor>Trindade, Renato Ramos Cairo Assis, editor</contributor>
+      <contributor>Trindade, Cairo Assis, editor</contributor>
+      <contributor>Ramos, Renato, editor</contributor>
       <contributor>Cubero, Jaime, editor</contributor>
       <contributor>Morel, José Carlos, editor</contributor>
       <contributor>Rebouças, Moésio, editor</contributor>
@@ -8374,7 +8517,7 @@
       <contributor>Élmantos, poet</contributor>
       <contributor>Milanese, Lucilla, poet</contributor>
       <contributor>Bruscky, Paulo, poet</contributor>
-      <contributor>Costa, Silvério da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Silva, Luiz Fernandes da, poet</contributor>
       <contributor>Vasconcelos, Selmo, poet</contributor>
       <contributor>Volpato, Irineu, poet</contributor>
@@ -8392,11 +8535,11 @@
       <description>Holdings: no. 10-15, yr. 1-2; no. 17, yr. 2 (Oct 1986); no. 19-20, yr. 2 (Dec 1986-Jan); no. 24, yr. 2 (May 1987); no. 26, yr. 2 (Jul 1987); no. 28, yr. 2 (Sep 1987); no. 38, yr. 3 (Jul 1988); no. 41, yr. 3 (Oct 1988); no. 49, yr. 4 (Jun 1989); no. 57, yr. 4 (Feb 1990); no. 62, yr. 5; Jul 1990; no. 67-80, yr. 5-6 (Dec 1990-Jan); no. 82-91, yr. 6-7 (Mar-Dec 1992); no. 94-95 (Mar-Apr 1993); no. 97-99 (Jun-Aug 1993); (Sep 93); no. 102-106 (Nov 1993-Mar); no. 108-116 (May 1994-Jan); no. 118-122 (Mar-Jul 1995); no. 124 (Sep 1995); no. 132, yr. 11 (May 1996); no. 136-137 (Sep-Oct 1996); no. 140-144 (Jan-May 1997); no. 146-150 (Jul-Nov 1997); no. 189-191, yr. 17 (Feb-Apr 2001); no. 193-196, yr. 17 (Jun-Sep 2001); no. 201-203, yr. 18 (Feb-Apr 2002)</description>
       <description>Notes: 2 copies of no. 67,69,70,71,76</description>
       <publisher/>
-      <contributor>Pedrosa, Ari L., correspondent</contributor>
+      <contributor>Pedrosa, Ari Lins, correspondent</contributor>
       <contributor>Nóbrega, Maira J., correspondent</contributor>
-      <contributor>Costa, Hildemar A., correspondent</contributor>
+      <contributor>Costa, Hildemar de A., correspondent</contributor>
       <contributor>Branco, Herbert Lago Castelo, correspondent</contributor>
-      <contributor>Santana, Clério José Borges, correspondent</contributor>
+      <contributor>Sant'Anna, Clério José Borges, correspondent</contributor>
       <contributor>Adler, Dilercy, correspondent</contributor>
       <contributor>Arruda, Rose de, correspondent</contributor>
       <contributor>Dias, Marina de Fátima, correspondent</contributor>
@@ -8723,8 +8866,8 @@
       <contributor>Soares, Ivan, director</contributor>
       <contributor>Santos, Elaine, director</contributor>
       <contributor>Caroli, Roberto, director</contributor>
-      <contributor>Ferreira, Pierre, poet</contributor>
-      <contributor>Justus, Leonilda Hilbenberg, poet</contributor>
+      <contributor>Ferreira, Pierre P., poet</contributor>
+      <contributor>Justus, Leonilda Hilgenberg, poet</contributor>
       <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Tavares, Jocedyr, poet</contributor>
       <contributor>Nascimento, Cláudio Ricardo, poet</contributor>
@@ -8803,7 +8946,7 @@
       <contributor>Borges, Edgar, participant</contributor>
       <contributor>Brito, Márcia, participant</contributor>
       <contributor>Branco, Joaquim, participant</contributor>
-      <contributor>Dias-Pino, Wladimir, participant</contributor>
+      <contributor>Dias-Pino, Wlademir, participant</contributor>
       <date>Mar-Jun 1987; Sep 1987-Nov; Jan-Jul 1989; Apr 1990-Jan; Jan 1993-Feb</date>
       <type>Newspaper</type>
       <format>23 volumes ; illustrations (collage, photocopied) : 31 x 21 cm</format>
@@ -8934,7 +9077,7 @@
       <contributor>Sodré, Lourival Farias, writer</contributor>
       <contributor>Vieira, Jaime, writer</contributor>
       <contributor>Milanese, Lucilla, writer</contributor>
-      <contributor>Moreira, Ziney S., writer</contributor>
+      <contributor>Moreira, Ziney Santos, writer</contributor>
       <contributor>Dolabela, Marcelo, writer</contributor>
       <contributor>Santana, Erorci, writer</contributor>
       <contributor>Míccolis, Leila, writer</contributor>
@@ -9034,7 +9177,7 @@
       <description>Notes: 2 copies of no. 17,19,20,21</description>
       <publisher/>
       <contributor>Corrêa, J. Gil, poet</contributor>
-      <contributor>Pedroso, Ari Lins, poet</contributor>
+      <contributor>Pedrosa, Ari Lins, poet</contributor>
       <contributor>Cagiano, Ronaldo, poet</contributor>
       <contributor>Helenara, poet</contributor>
       <contributor>Maica, Cecília, poet</contributor>
@@ -9149,7 +9292,7 @@
       <contributor>Fafau, Luiz, poet</contributor>
       <contributor>Alverga, Geraldo, poet</contributor>
       <contributor>Feldman, Cláudio, poet</contributor>
-      <contributor>Paulo, Eloésio, poet</contributor>
+      <contributor>Reis, Eloésio Paulo dos, poet</contributor>
       <contributor>Freitas, Iacyr A., poet</contributor>
       <contributor>Veras, Dalila Teles, poet</contributor>
       <contributor>Mund Jr., Hugo, poet</contributor>
@@ -9256,7 +9399,7 @@
       <contributor>Britto, Alfredo, board member</contributor>
       <contributor>Graeff, Edgar, board member</contributor>
       <contributor>Burmeister, Fernando, board member</contributor>
-      <contributor>Gular, Ferreira, board member</contributor>
+      <contributor>Gullar, Ferreira, board member</contributor>
       <contributor>Campofiorito, Ítalo, board member</contributor>
       <contributor>Katinski, Julio, board member</contributor>
       <contributor>Mello, Ícaro de Castro, writer</contributor>
@@ -9385,7 +9528,7 @@
       <contributor>Ruiz, Alice, poet</contributor>
       <contributor>Leminski, Paulo, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
-      <contributor>Carneiro, Geraldo, poet</contributor>
+      <contributor>Carneiro, Geraldo Eduardo, poet</contributor>
       <contributor>Buss, Alcides, poet</contributor>
       <contributor>Torquato Neto, poet</contributor>
       <contributor>Venâncio, Nirton, poet</contributor>
@@ -9458,7 +9601,7 @@
       <contributor>Preta, Itabajara Catta, poet</contributor>
       <contributor>Ramos, Mila, poet</contributor>
       <contributor>Russowsky, Miguel, poet</contributor>
-      <contributor>Dornelles, Leinecy P., poet</contributor>
+      <contributor>Dornelles, Leinecy, poet</contributor>
       <contributor>Sodré, Lourival Farias, poet</contributor>
       <contributor>Amaral, Jerônimo Cabral Pereira do, poet</contributor>
       <date>Aug 1994; Dec 1994; Apr 1995; Jun-Oct 1995; Mar 1996; Sep 1996; Dec 1996-Feb; Jul 1997-Dec; Dec 2000-Oct</date>
@@ -9574,7 +9717,7 @@
       <contributor>Pessoa, Itamar, comic artist</contributor>
       <contributor>Dias, Rachel, comic artist</contributor>
       <contributor>Cruz, Clodoaldo, comic artist</contributor>
-      <contributor>Prado, Anita, comic artist</contributor>
+      <contributor>Prado, Anita Costa, comic artist</contributor>
       <contributor>Jaepelt, Maria, comic artist</contributor>
       <contributor>Jaepelt, Henry, comic artist</contributor>
       <contributor>Sennes, Márcio, comic artist</contributor>
@@ -9818,7 +9961,7 @@
       <publisher/>
       <contributor>Mantovani, Ivanise, poet</contributor>
       <contributor>Abreu, Casimiro de, poet</contributor>
-      <contributor>Nobrega, Arlindo, poet</contributor>
+      <contributor>Nóbrega, Arlindo, poet</contributor>
       <contributor>Rodrigues, Alexandre, poet</contributor>
       <contributor>Taborda, Carlos Alberto, poet</contributor>
       <type>Brochure</type>
@@ -10075,7 +10218,7 @@
       <contributor>Ramos, Beatriz Helena, poet</contributor>
       <contributor>Correia, J. Gil, poet</contributor>
       <contributor>Vieira, Jaime, poet</contributor>
-      <contributor>Costa, Silvério R. da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Catunda, Márcio, poet</contributor>
       <contributor>Mora, Eliana, poet</contributor>
       <contributor>Gaia, Ona, poet</contributor>
@@ -10239,7 +10382,7 @@
       <contributor>Martins, Ademir, poet</contributor>
       <contributor>Pio, Djanira, poet</contributor>
       <contributor>Garuzzi, Augusto, poet</contributor>
-      <contributor>Coutinho, Adriana Márcia A., poet</contributor>
+      <contributor>Coutinho, Adriana Márcia de Araújo, poet</contributor>
       <contributor>Valbam, poet</contributor>
       <contributor>Cardias, J., poet</contributor>
       <contributor>Silva, Luiz Fernandes da, poet</contributor>
@@ -10368,7 +10511,7 @@
       <contributor>Scholz, Henrique, collaborator</contributor>
       <contributor>Bandeira, Enio, collaborator</contributor>
       <contributor>Hoffmeister, Cristina, secretary</contributor>
-      <contributor>Mattos, José F, collaborator</contributor>
+      <contributor>Mattos, José F., collaborator</contributor>
       <contributor>Fritsch, Xavier Walter, author</contributor>
       <contributor>Freitas, Telmo de Lima, author</contributor>
       <contributor>Fialho, Joarez Tavora Pacheco, author</contributor>
@@ -10470,7 +10613,7 @@
       <subject>Military Dictatorship</subject>
       <subject>Militarism</subject>
       <description>Holdings: no. 1-5</description>
-      <contributor>Contents: Lammas (poem by Kzé), no. 3, page 1</contributor>
+      <description>Contents: Lammas (poem by Kzé), no. 3, page 1</description>
       <description>Notes: </description>
       <publisher/>
       <date>1982</date>
@@ -10930,7 +11073,7 @@
       <contributor>Leontino Filho, poet</contributor>
       <contributor>Garuzzi, Augusto, poet</contributor>
       <contributor>Vebber, Ivone, poet</contributor>
-      <contributor>Costa, Silvério R. da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Cagiano, Ronaldo, poet</contributor>
       <contributor>Pereira, Abel B., poet</contributor>
       <contributor>Moura, Maria Regina, poet</contributor>
@@ -11125,7 +11268,7 @@
       <contributor>Prado, Anita Costa, poet</contributor>
       <contributor>Justo, Marco, poet</contributor>
       <contributor>Alves, José, poet</contributor>
-      <contributor>Souza, Jurema B., poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
       <contributor>Naider, Suzy, poet</contributor>
       <date>Feb-Mar 1986; May-Jun 1986; Sep 1986-Aug 1995</date>
       <type>Zine</type>
@@ -11138,7 +11281,7 @@
       <title>Pipocalipse</title>
       <subject>Literary</subject>
       <description>Holdings: no. 2 (Edição Extra Vagante); no. 1, yr. 1 (Edição Extra Ordinária)</description>
-      <description>Contents: Democracia (poem by Leila Miccolis), no. 2, page 2</description>
+      <description>Contents: Democracia (poem by Leila Míccolis), no. 2, page 2</description>
       <description>Notes: </description>
       <contributor>Vieira, Valdo, collaborator</contributor>
       <contributor>Vieira, Geni, collaborator</contributor>
@@ -11168,7 +11311,7 @@
       <contributor>Míccolis, Leila, poet</contributor>
       <contributor>Martins, Floriano, poet</contributor>
       <contributor>Villares, Lucia, poet</contributor>
-      <contributor>Dolabella, Marcelo, poet</contributor>
+      <contributor>Dolabela, Marcelo, poet</contributor>
       <contributor>Savary, Olga, poet</contributor>
       <contributor>Silva, Sérgio Amaral, poet</contributor>
       <contributor>Sampaio, Paulo, poet</contributor>
@@ -11176,8 +11319,8 @@
       <contributor>Marçal Aquino, poet</contributor>
       <contributor>Finatto, Adelar, poet</contributor>
       <contributor>Pinto, Tarceu, poet</contributor>
-      <contributor>Viveiros, Luiz Sergio de, poet</contributor>
-      <contributor>Santos, Roberto Luiz, poet</contributor>
+      <contributor>Viveiros, Luiz Sérgio de, poet</contributor>
+      <contributor>Santos, Roberto Luiz dos, poet</contributor>
       <contributor>Waki, Akemi, poet</contributor>
       <contributor>Yutaka, Roberto, poet</contributor>
       <contributor>Menezes, Nivaldo, poet</contributor>
@@ -11251,7 +11394,7 @@
       <contributor>Sant’Anna, Clério José Borges de, poet</contributor>
       <contributor>Prado, Anita Costa, poet</contributor>
       <contributor>Silva, Luiz Fernandes da, poet</contributor>
-      <contributor>Costa, Silvério R. da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Salgado, Rogério, poet</contributor>
       <contributor>Dolabela, Marconi, poet</contributor>
       <contributor>Adal, Rosani Abou, poet</contributor>
@@ -11459,8 +11602,8 @@
       <contributor>Santos, Carlos Moreira, poet</contributor>
       <contributor>Waeny, Walter, poet</contributor>
       <contributor>Almeida, Therezinha Alves de, poet</contributor>
-      <contributor>Santos, Diniz Felix dos, poet</contributor>
-      <contributor>Francescatto, Lari, poet</contributor>
+      <contributor>Santos, Diniz Félix dos, poet</contributor>
+      <contributor>Franceschetto, Larí, poet</contributor>
       <date>undated; Sep 1992-?</date>
       <format>8 volumes ; illustrations (collage, photocopied) : 23 x 16 cm</format>
       <identifier>Box 29, Folder 23</identifier>
@@ -11518,8 +11661,8 @@
       <contributor>Petrus, editor</contributor>
       <contributor>Rômulo, Romério, editor</contributor>
       <contributor>Gonçalves, Régis, editor</contributor>
-      <contributor>Sant’Ana, Affonso Romano de, writer</contributor>
-      <contributor>Dollabela, Marcelo, writer</contributor>
+      <contributor>Sant’Anna, Affonso Romano de, writer</contributor>
+      <contributor>Dolabela, Marcelo, writer</contributor>
       <contributor>Tavares, Bráulio, writer</contributor>
       <contributor>Mattoso, Glauco, writer</contributor>
       <contributor>Nunes, Sebastião, writer</contributor>
@@ -11694,7 +11837,7 @@
       <contributor>Pinto, Kátia, poet</contributor>
       <contributor>Araújo, A. de, poet</contributor>
       <contributor>Fonteles, Bené, poet</contributor>
-      <contributor>Mund Jr, Hugo, poet</contributor>
+      <contributor>Mund Jr., Hugo, poet</contributor>
       <contributor>Montenegro, Delmo, poet</contributor>
       <contributor>Magela, Geraldo, poet</contributor>
       <contributor>Medeiros, J., poet</contributor>
@@ -11705,7 +11848,7 @@
       <contributor>Nunes, Sebastião, poet</contributor>
       <contributor>Raider, Patt, poet</contributor>
       <contributor>Cardias, J., poet</contributor>
-      <contributor>Nascimento, Rubervan Do, poet</contributor>
+      <contributor>Nascimento, Rubervam do, poet</contributor>
       <contributor>Pontes, Hugo, poet</contributor>
       <contributor>Capistrano, Franklin, poet</contributor>
       <date>Jun 1993-Jul</date>
@@ -11795,7 +11938,7 @@
       <description>Holdings: no. 14, yr. 5</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Capricho, R Angelo, writer</contributor>
+      <contributor>Capricho, R. Angelo, writer</contributor>
       <date>Jan 1989</date>
       <type>Zine</type>
       <type>Magazine</type>
@@ -11854,7 +11997,7 @@
       <contributor>Lima, Batista de, poet</contributor>
       <contributor>Cardoso, Tanussi, poet</contributor>
       <contributor>Fonseca, Aglaia Souza da, poet</contributor>
-      <contributor>Silva, Sergio Amaral, poet</contributor>
+      <contributor>Silva, Sérgio Amaral, poet</contributor>
       <contributor>Mattoso, Glauco, poet</contributor>
       <contributor>José, Ângela, poet</contributor>
       <contributor>Ramo, Severino do, poet</contributor>
@@ -12061,13 +12204,13 @@
       <contributor>Martins, Rogério, poet</contributor>
       <contributor>Weneck, Elvira, poet</contributor>
       <contributor>Feldman, Cláudio, poet</contributor>
-      <contributor>Costa, Silvério R. da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Morais, Menezes Y., poet</contributor>
       <contributor>Weirich, Anair, poet</contributor>
       <contributor>Carvalho, Osael de, poet</contributor>
       <contributor>Barcellos, João, poet</contributor>
       <contributor>Wanke, Eno Teodoro, poet</contributor>
-      <contributor>Sousa, Jurema B. de, poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
       <contributor>Filardi, Francisco, poet</contributor>
       <contributor>Aquino, Ricardo, poet</contributor>
       <contributor>Garuzzi, Augusto, poet</contributor>
@@ -12113,7 +12256,7 @@
       <contributor>Bezerra, Jaci, poet</contributor>
       <contributor>Martins, Floriano, poet</contributor>
       <contributor>Cordeiro, Marcos, poet</contributor>
-      <contributor>Pereira, Terezinka, poet</contributor>
+      <contributor>Pereira, Teresinka, poet</contributor>
       <contributor>Henrique da Cruz, José, poet</contributor>
       <contributor>Maciel Jr., Lauro, poet</contributor>
       <contributor>Proteti, João, poet</contributor>
@@ -12489,7 +12632,7 @@
       <contributor>Luís, collaborator</contributor>
       <contributor>Salgado, Rogério, collaborator</contributor>
       <contributor>Messias de Oliveira, Wellington, collaborator</contributor>
-      <contributor>Souza, Salomão, collaborator</contributor>
+      <contributor>Lima, Salomão Souza, collaborator</contributor>
       <contributor>Lima, Batista de, collaborator</contributor>
       <contributor>Feldman, Cláudio, collaborator</contributor>
       <contributor>Machado, Jojô, collaborator</contributor>
@@ -12634,7 +12777,7 @@
       <contributor>Rufino, Eliakin, poet</contributor>
       <contributor>Catunda, Márcio, poet</contributor>
       <contributor>Alfaya, Ricardo, poet</contributor>
-      <contributor>Costa, Silvério R., poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Silva, Geraldo Fidelis da, poet</contributor>
       <contributor>Mattoso, Glauco, poet</contributor>
       <contributor>Marian, Corinne, poet</contributor>
@@ -12904,13 +13047,13 @@
       <description>Holdings: no. 1-2 (?-Oct 1989); no. 3, yr. 3 (Jan 1991)</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Nascente, Edna, writer</contributor>
+      <contributor>Nascente, Edna Ribeiro, writer</contributor>
       <contributor>Martins, Zacarias, writer</contributor>
       <contributor>Pereira, Marciano Vasques, writer</contributor>
       <contributor>Sousa, Aglaia Costa, writer</contributor>
-      <contributor>Correa, Alceu Brito, writer</contributor>
+      <contributor>Corrêa, Alceu Brito, writer</contributor>
       <contributor>Doretto, Elder, writer</contributor>
-      <contributor>Santos, Diniz Felix dos, writer</contributor>
+      <contributor>Santos, Diniz Félix dos, writer</contributor>
       <contributor>Ruiz, Alice, writer</contributor>
       <date>?-Oct 1989; Jan 1991</date>
       <type>Zine</type>
@@ -12944,7 +13087,7 @@
       <contributor>Leminski, Paulo, writer</contributor>
       <contributor>Míccolis, Leila, writer</contributor>
       <contributor>Veloso, Caetano, writer</contributor>
-      <contributor>Froes, Leonardo, writer</contributor>
+      <contributor>Fróes, Leonardo, writer</contributor>
       <date>?-Feb 1985</date>
       <type>Newsletter</type>
       <type>Poetry</type>
@@ -13088,8 +13231,8 @@
       <publisher/>
       <contributor>Meira, Nyssia Freitas, copy editor</contributor>
       <contributor>Moura, Esther, writer</contributor>
-      <contributor>Radetic, Terezinha, writer</contributor>
-      <contributor>Oliveira, Varlo Ôlo de, writer</contributor>
+      <contributor>Radetic, Teresinha, writer</contributor>
+      <contributor>Oliveira, Varlô Ôlo de, writer</contributor>
       <contributor>Soares, Jarnete Ferreira, writer</contributor>
       <contributor>Silva, Célia Rangel de Almeida e, writer</contributor>
       <contributor>Candelário, Inocêncio, writer</contributor>
@@ -13548,7 +13691,7 @@
       <contributor>Hélio, Mário, poet</contributor>
       <contributor>Cunha, Ivanildo, poet</contributor>
       <contributor>Arcela, Antonio, poet</contributor>
-      <contributor>Costa, Silvério R. da, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Porto, Wilton, poet</contributor>
       <contributor>Vieira, Jaime, poet</contributor>
       <contributor>Alves, Clione, poet</contributor>
@@ -13872,7 +14015,7 @@
       <description>Holdings: no. 1-3, yr. 1</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Almandadre, collaborator</contributor>
+      <contributor>Almandrade, collaborator</contributor>
       <contributor>Freitas, Jorge, collaborator</contributor>
       <contributor>Valente Júnior, collaborator</contributor>
       <contributor>Behr, Nicolas, collaborator</contributor>
@@ -14007,7 +14150,7 @@
       <contributor>Toledo, José Luiz Dutra de, writer</contributor>
       <contributor>Domingos, Jorge, writer</contributor>
       <contributor>Viana, Denise Teixeira, writer</contributor>
-      <contributor>Nascimento, Jessé, writer</contributor>
+      <contributor>Nascimento, Jessé F. do, writer</contributor>
       <contributor>Milanese, Lucilla, writer</contributor>
       <contributor>Báez, Renato, writer</contributor>
       <contributor>Palma, José, writer</contributor>
@@ -14052,7 +14195,7 @@
       <contributor>Maestro, Humberto Del, collaborator</contributor>
       <contributor>Visconti, Eduardo Víctor, collaborator</contributor>
       <contributor>Távola, Artur da, collaborator</contributor>
-      <contributor>Costa, Silvério da, collaborator</contributor>
+      <contributor>Costa, Silvério Ribeiro da, collaborator</contributor>
       <contributor>Bueloni, Marisa Fillet, collaborator</contributor>
       <contributor>Cavalheiro, Maria Thereza, collaborator</contributor>
       <date>May 1996; Nov 1996-Feb; Apr 1997; Jul-Nov 1997; Jan 1998; Jul 1998; Nov-Dec 1998; Aug 1999; Apr-Dec 2000; Mar-Apr 2001; Jun-Jul 2001</date>
@@ -14186,7 +14329,7 @@
       <contributor>Tavares, Braulio, poet</contributor>
       <contributor>Camelo, Raimundo, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
-      <contributor>Curvelho, Aricy, poet</contributor>
+      <contributor>Curvello, Aricy, poet</contributor>
       <contributor>Menezes, Nivaldo, poet</contributor>
       <date>May-Dec 1982; Mar-Aug 1983; Nov 1983-Aug</date>
       <type>Zine</type>
@@ -14254,7 +14397,7 @@
       <description>Notes: All joint issues. 131/134 joint issue.</description>
       <publisher>Centro Integrado Rui Bezerra Cavalcante/SESC- Guarabira</publisher>
       <contributor>Wanke, Eno Teodoro, poet</contributor>
-      <contributor>Buss, Alcide, poet</contributor>
+      <contributor>Buss, Alcides, poet</contributor>
       <contributor>Vieira, Jaime, poet</contributor>
       <contributor>Vebber, Ivone, poet</contributor>
       <contributor>Santos, Paulo, poet</contributor>
@@ -14347,7 +14490,8 @@
       <contributor>Carvalho, Idalina de, poet</contributor>
       <contributor>Mamede, Whisner Fraga, poet</contributor>
       <contributor>Gomes, Danilo, poet</contributor>
-      <contributor>Alves, Joanyr de Oliveira Geraldo Magela A., poet</contributor>
+      <contributor>Alves, Geraldo Magela A., poet</contributor>
+      <contributor>Oliveira, Joanyr de, poet</contributor>
       <contributor>Gonçalves, Marta, poet</contributor>
       <date>Nov 1997-Mar</date>
       <type>Zine</type>
@@ -14538,7 +14682,7 @@
       <contributor>Silva, Joubert de Araújo, poet</contributor>
       <contributor>Vasques Filho, poet</contributor>
       <contributor>Lobo, Durval, poet</contributor>
-      <contributor>Cavalheiro, Maria Tereza, poet</contributor>
+      <contributor>Cavalheiro, Maria Thereza, poet</contributor>
       <contributor>Vivekananda, Swami, poet</contributor>
       <contributor>Carvalho, Elton, poet</contributor>
       <contributor>Bezerra, Aloísio, poet</contributor>
@@ -14558,7 +14702,7 @@
       <description>Notes: 2 copies of no. 10</description>
       <publisher/>
       <contributor>Souza, Oefe, poet</contributor>
-      <contributor>Borges, Clério José, poet</contributor>
+      <contributor>Sant'Anna, Clério José Borges, poet</contributor>
       <contributor>Alfaya, Ricardo, poet</contributor>
       <contributor>Dantas, Jota, poet</contributor>
       <contributor>Conde, Martinho, poet</contributor>
@@ -14568,14 +14712,14 @@
       <contributor>Arthur Filho, poet</contributor>
       <contributor>Chiquinho, poet</contributor>
       <contributor>Chaparral, Silvia, poet</contributor>
-      <contributor>Milanese, Lucila, poet</contributor>
+      <contributor>Milanese, Lucilla, poet</contributor>
       <contributor>Cardias, J., poet</contributor>
-      <contributor>Sodré, Lourival Faria, poet</contributor>
+      <contributor>Sodré, Lourival Farias, poet</contributor>
       <contributor>Mello, Márcio J. de, poet</contributor>
       <contributor>Fidelli, Cecília, poet</contributor>
       <contributor>Carvalho, Idalina de, poet</contributor>
       <contributor>Albuquerque, Aníbal, poet</contributor>
-      <contributor>Nascimento, Jessé, poet</contributor>
+      <contributor>Nascimento, Jessé F. do, poet</contributor>
       <contributor>Garrido, Helena Cristina T., poet</contributor>
       <contributor>Vasconcelos, Selmo, poet</contributor>
       <date>Feb 1992; Apr-Jul 1992; Jan 1993-?; Dec 1996-Jul</date>
@@ -14675,7 +14819,7 @@
       <contributor>Mourta, Esther, writer</contributor>
       <contributor>Otávio, Luís, writer</contributor>
       <contributor>Murad, Anis, writer</contributor>
-      <contributor>Wanke, Eno Teodeoro, writer</contributor>
+      <contributor>Wanke, Eno Teodoro, writer</contributor>
       <date>Apr 1996; Aug 1996; Oct 1996; Dec 1996-Mar; May 1997; Aug 1997</date>
       <type>Zine</type>
       <format>8 volumes ; illustrations (collage) : 33 x 22 cm</format>
@@ -14715,7 +14859,7 @@
       <contributor>Maia, Fred, poet</contributor>
       <contributor>Mançur, Mônica, poet</contributor>
       <contributor>Carneiro, Iverson, poet</contributor>
-      <contributor>Chacon, Beatriz, poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
       <date>Nov 1990; Jan-Mar 1991; Apr 1991; Jun 1991; Sep-Oct 1991; Jul 1992</date>
       <type>Poetry</type>
       <type>Zine</type>
@@ -14817,7 +14961,7 @@
       <contributor>Vieira, Rui, poet</contributor>
       <contributor>Viana, Denise Teixeira, poet</contributor>
       <contributor>Nicolodi, César, poet</contributor>
-      <contributor>Wanke, Eno Theodoro, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <contributor>Viana, Denise Teixeira, poet</contributor>
       <contributor>Vebber, Ivone, poet</contributor>
       <contributor>Diniz, Tânia, poet</contributor>
@@ -15054,7 +15198,7 @@
       <contributor>Duarte, Osvaldo, poet</contributor>
       <contributor>Bento, Cláudio, poet</contributor>
       <contributor>Aquino, Ricardo, poet</contributor>
-      <contributor>Buss, Alcide, poet</contributor>
+      <contributor>Buss, Alcides, poet</contributor>
       <date>Oct/Nov 1988; Feb-May 1989; Aug/Sep 1989; Dec 1989-May</date>
       <type>Zine</type>
       <type>Poetry</type>
@@ -15165,7 +15309,7 @@
       <contributor>Galvão, Donizete, collaborator</contributor>
       <contributor>Teles, Lygia Fagundes, collaborator</contributor>
       <contributor>Arruda, Eunice, collaborator</contributor>
-      <contributor>Pallotini, Renata, collaborator</contributor>
+      <contributor>Pallottini, Renata, collaborator</contributor>
       <date>May 7, 1999; Sep 1999; Nov 1999-Nov</date>
       <type>Zine</type>
       <format>7 volumes ; illustrations (collage, photocopied) : 30 x 21 cm</format>
@@ -15214,7 +15358,7 @@
       <description>Notes: </description>
       <publisher/>
       <contributor>Gonçalves, Renato, poet</contributor>
-      <contributor>Franceschetto, Lari, poet</contributor>
+      <contributor>Franceschetto, Larí, poet</contributor>
       <contributor>Arruda, Rose de, poet</contributor>
       <contributor>Maestro, Humberto Del, poet</contributor>
       <contributor>Guedes, Fátima, poet</contributor>
@@ -15442,10 +15586,10 @@
       <contributor>Abritta, Luiz Carlos, poet</contributor>
       <contributor>Malty, Miguel J., poet</contributor>
       <contributor>Cavalheiro, Maria Thereza, poet</contributor>
-      <contributor>Wanke, Eno Theodoro, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <contributor>Costa, Símaco da, poet</contributor>
       <contributor>Almeida, Rufino de, poet</contributor>
-      <contributor>Justus, Leonilda Hilgenber, poet</contributor>
+      <contributor>Justus, Leonilda Hilgenberg, poet</contributor>
       <contributor>Siqueira, Jorge Picanço, poet</contributor>
       <contributor>Carvalho, Élton, poet</contributor>
       <contributor>Maia, Florestan Japiassú, poet</contributor>
@@ -15589,7 +15733,7 @@
       <contributor>Cereja, Fernando, poet</contributor>
       <contributor>Mota, Camilo, poet</contributor>
       <contributor>Carvalho, Osael de, poet</contributor>
-      <contributor>Menor, Edmo R. A., poet</contributor>
+      <contributor>Albuquerque Menor, Edmo Raimundo de, poet</contributor>
       <contributor>Storeino, Wellington C., poet</contributor>
       <contributor>Viana, Denise Teixeira, poet</contributor>
       <contributor>Maestro, Humberto Del, poet</contributor>
@@ -15997,7 +16141,7 @@
       <publisher>University of Colorodo</publisher>
       <contributor>Milesi, Maria, poet</contributor>
       <contributor>O'Connell, Richard, poet</contributor>
-      <contributor>Ramires, A. Isaias, poet</contributor>
+      <contributor>Ramires, A. Isaías, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
       <contributor>Coleman, Horace, poet</contributor>
       <contributor>Siqueira, Walter, poet</contributor>
@@ -16792,7 +16936,7 @@
       <publisher/>
       <contributor>Botkay, Caíque, vice-president</contributor>
       <contributor>Barreto, Carlos Alberto, edition director</contributor>
-      <contributor>Carneiro, Geraldo, insert director</contributor>
+      <contributor>Carneiro, Geraldo Eduardo, insert director</contributor>
       <contributor>Macalé, Jards, event director</contributor>
       <contributor>Carvalho, Mario Cardoso, production director</contributor>
       <contributor>Santos, Sonia, creative director</contributor>
@@ -16982,7 +17126,7 @@
       <publisher/>
       <contributor>Cardias, J., writer</contributor>
       <contributor>Cardin, Carmen, writer</contributor>
-      <contributor>Wanke, Eno Theodoro, writer</contributor>
+      <contributor>Wanke, Eno Teodoro, writer</contributor>
       <contributor>Calixto, Manoel Alves, writer</contributor>
       <contributor>Aquino, Ricardo, writer</contributor>
       <contributor>Viana, Denise Teixeira, writer</contributor>
@@ -17387,7 +17531,7 @@
       <description>Holdings: no. 1-3</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Nascimento, Rubervan du, collaborator</contributor>
+      <contributor>Nascimento, Rubervam do, collaborator</contributor>
       <contributor>Campelo, Viriato, collaborator</contributor>
       <contributor>Santos, Cinéas, collaborator</contributor>
       <contributor>Nunes, Benedito, collaborator</contributor>
@@ -18136,7 +18280,7 @@
       <description>Notes: </description>
       <publisher/>
       <contributor>Lessa, Aparecida Fátima Siqueira, administrative director</contributor>
-      <contributor>Oliveira Júnior, J. H., director</contributor>
+      <contributor>Oliveira Júnior, J. H. de, director</contributor>
       <date>Feb 1993</date>
       <type>Newspaper</type>
       <format>1 volume (12 pages) ; illustrations : 57 x 35 cm</format>
@@ -18315,7 +18459,7 @@
       <contributor>Capriles, René, writer</contributor>
       <contributor>Farfan, writer</contributor>
       <contributor>Leal, Joaquim Ponce, writer</contributor>
-      <contributor>Goulat, S., secretary</contributor>
+      <contributor>Goulart, S., secretary</contributor>
       <contributor>Samaral, layout designer</contributor>
       <contributor>Alencar, Inácio de, editor</contributor>
       <contributor>Guimarães, João Antonio Márcia, copy editor</contributor>
@@ -18730,7 +18874,7 @@
       <contributor>Galli, Ubirajara, poet</contributor>
       <contributor>Metran, Violeta, poet</contributor>
       <contributor>Teles, José Mendonça, poet</contributor>
-      <contributor>Teles, Gilberto Mendonça, poet</contributor>
+      <contributor>Telles, Gilberto Mendonça, poet</contributor>
       <date>Feb-Jul 1993</date>
       <type>Newspaper</type>
       <format>6 volumes ; illustrations : 37 x 28 cm</format>
@@ -18798,22 +18942,22 @@
       <contributor>Carvalho, Osael de, poet</contributor>
       <contributor>Filgueiras, Severino, poet</contributor>
       <contributor>Fidelli, Cecília, poet</contributor>
-      <contributor>Chacon, Beatriz, poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
       <contributor>Cavalcante, Leone, poet</contributor>
       <contributor>Nóbrega, Arlindo, poet</contributor>
       <contributor>Moreira, Ziney Santos, poet</contributor>
       <contributor>Granja, Alba, poet</contributor>
       <contributor>Wanke, Eno Teodoro, poet</contributor>
-      <contributor>Silva, Luiz Fernandes, poet</contributor>
+      <contributor>Silva, Luiz Fernandes da, poet</contributor>
       <contributor>Pereira, Abel B., poet</contributor>
       <contributor>Fernando, Milton Dias, poet</contributor>
-      <contributor>Milanese, Lucila, poet</contributor>
-      <contributor>Costa, Silvério, poet</contributor>
+      <contributor>Milanese, Lucilla, poet</contributor>
+      <contributor>Costa, Silvério Ribeiro da, poet</contributor>
       <contributor>Feldman, Cláudio, poet</contributor>
       <contributor>Tavares, Clotilde, poet</contributor>
       <contributor>Bezerra, Jaci, poet</contributor>
       <contributor>Fontes, Ilma, poet</contributor>
-      <contributor>Pallotini, Renata, poet</contributor>
+      <contributor>Pallottini, Renata, poet</contributor>
       <contributor>Behr, Nicolas, poet</contributor>
       <contributor>Viana, Denise Teixeira, poet</contributor>
       <date>Oct 1996-Oct 1997; Jan-Apr 1998; Jul-Oct 1998</date>
@@ -19150,7 +19294,7 @@
       <contributor>Sodré, Lourival Farias, poet</contributor>
       <contributor>Alfaya, Ricardo, poet</contributor>
       <contributor>Borges, Yedda Gaspar, poet</contributor>
-      <contributor>Milanese, Lucila, poet</contributor>
+      <contributor>Milanese, Lucilla, poet</contributor>
       <contributor>Castelo Branco, Herbert Lago, poet</contributor>
       <contributor>Martins, Jandira Marques, poet</contributor>
       <contributor>Coelho, Nicamor, poet</contributor>
@@ -19180,7 +19324,10 @@
       <contributor>Mayr, Mirian, collaborator</contributor>
       <contributor>Souto Maior, Laércio, collaborator</contributor>
       <contributor>Mariano, Adolpho, collaborator</contributor>
-      <contributor>Francisco Souto Neto, Renata Ribeiro, Paulo Granero e Alberto César de Oliveira, collaborator</contributor>
+      <contributor>Souto Neto, Francisco, collaborator</contributor>
+      <contributor>Ribeiro, Renata, collaborator</contributor>
+      <contributor>Granero, Paulo, collaborator</contributor>
+      <contributor>Oliveira, Alberto César de, collaborator</contributor>
       <date>Sep-Dec 1986</date>
       <type>Newspaper</type>
       <format>2 volumes ; illustrations : 36 x 29 cm</format>
@@ -19555,7 +19702,7 @@
          Janeiro</publisher>
       <contributor>Leiros, Marco A. T. de, editor</contributor>
       <contributor>Soraia, Nadja, graphic designer</contributor>
-      <contributor>Silva, arcelo de Carvalho, president</contributor>
+      <contributor>Silva, Marcelo de Carvalho, president</contributor>
       <date>Apr/May 2001</date>
       <type>Newspaper</type>
       <format>1 volume (12 pages) ; illustrations : 32 x 28 cm</format>
@@ -19729,10 +19876,9 @@
       <description>Holdings: no. 1-7, yr. 1-2</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Oliveira, Francilene G., secretary</contributor>
+      <contributor>Oliveira, Francilene Gripp de, secretary</contributor>
       <contributor>Perciliana, Úrsula, public relations manager</contributor>
       <contributor>Gomes, Silvano, poet</contributor>
-      <contributor>Oliveira, Francirene Gripp de, poet</contributor>
       <date>Dec 1986-Aug</date>
       <type>Newspaper</type>
       <format>7 volumes ; illustrations : 38 cm x 28 cm</format>
@@ -19761,7 +19907,7 @@
       <contributor>Junqueira, Ivan, writer</contributor>
       <contributor>Guimaraens Filho, Alphonsus de, writer</contributor>
       <contributor>Cardozo, Joaquim, poet</contributor>
-      <contributor>Luca, Fábio, writer</contributor>
+      <contributor>Lucas, Fábio, writer</contributor>
       <contributor>Pieiro, Jorge, writer</contributor>
       <contributor>Salermo, Márcio, writer</contributor>
       <contributor>Aleixo, Ricardo, writer</contributor>
@@ -19791,7 +19937,7 @@
       <contributor>Rossi, Walter, poet</contributor>
       <contributor>Pereira, Teresinka, poet</contributor>
       <contributor>Lira, Geraldo, poet</contributor>
-      <contributor>Justus, Leonilda Hilbenberg, poet</contributor>
+      <contributor>Justus, Leonilda Hilgenberg, poet</contributor>
       <contributor>Vebber, Ivone, poet</contributor>
       <contributor>Rubens, Jack, poet</contributor>
       <contributor>Cagiano, Ronaldo, poet</contributor>
@@ -19800,7 +19946,7 @@
       <contributor>Oliveira, Joanyr de, poet</contributor>
       <contributor>Sucupira, Andrade, poet</contributor>
       <contributor>Barbosa, Dárcio, poet</contributor>
-      <contributor>Coutinho, Adriana Márcia de A., poet</contributor>
+      <contributor>Coutinho, Adriana Márcia de Araújo, poet</contributor>
       <contributor>Silva, Felisbelo da, poet</contributor>
       <contributor>Oliveira, Varlô Ôlo de, poet</contributor>
       <contributor>Penna, Juju Campbell, poet</contributor>
@@ -19968,7 +20114,7 @@
       <contributor>Proença, Edyr, writer</contributor>
       <contributor>Abreu, Sylvio, writer</contributor>
       <contributor>Pimentel, Luís, writer</contributor>
-      <contributor>Wanke, Eno Theodoro, writer</contributor>
+      <contributor>Wanke, Eno Teodoro, writer</contributor>
       <contributor>Brasil, Joselyn, writer</contributor>
       <contributor>Siqueira, Antonio Juraci, writer</contributor>
       <contributor>Castro, Acyr, writer</contributor>
@@ -20499,7 +20645,7 @@
       <contributor>Ruiz, Alice, collaborator</contributor>
       <contributor>Back, Sílvio, collaborator</contributor>
       <contributor>Mourão, Jorge, collaborator</contributor>
-      <contributor>Pellegrini Júnior, Domingos, collaborator</contributor>
+      <contributor>Pellegrini Jr., Domingos, collaborator</contributor>
       <contributor>Bonvicino, Regis, collaborator</contributor>
       <contributor>Caruso, Chico, collaborator</contributor>
       <contributor>Fraga, collaborator</contributor>
@@ -20704,7 +20850,7 @@
       <contributor>Athanázio, Enéas, collaborator</contributor>
       <contributor>Ramos, Mila, collaborator</contributor>
       <contributor>Caruso, Raimundo V., collaborator</contributor>
-      <contributor>Costa, Silvério R. da, collaborator</contributor>
+      <contributor>Costa, Silvério Ribeiro da, collaborator</contributor>
       <contributor>Negreiros, Índio, collaborator</contributor>
       <contributor>Guasque, Yara, collaborator</contributor>
       <contributor>Wolff, Joca, collaborator</contributor>
@@ -20749,7 +20895,7 @@
       <contributor>Oliveira, Mário de, writer</contributor>
       <contributor>Faria, Hamilton, writer</contributor>
       <contributor>Mendra, Marcus, writer</contributor>
-      <contributor>Wanke, Eno Theodoro, writer</contributor>
+      <contributor>Wanke, Eno Teodoro, writer</contributor>
       <contributor>Mello, Maria Amélia, writer</contributor>
       <contributor>Lagoa, Ana, writer</contributor>
       <contributor>Gomes, Dilon da Silva, writer</contributor>
@@ -20813,7 +20959,8 @@
       <contributor>Cunha, Alaeci Ribeiro da, collaborator</contributor>
       <contributor>Cunha, José Francisco da, collaborator</contributor>
       <contributor>Devens, José Ângelo Coutinho, collaborator</contributor>
-      <contributor>Sarcinelli, Miryam Rosário Cheng Norabuena, collaborator</contributor>
+      <contributor>Sarcinelli, Miryam Rosário, collaborator</contributor>
+      <contributor>Norabuena, Cheng, collaborator</contributor>
       <date>Apr-Dec 1988</date>
       <type>Newspaper</type>
       <format>6 volumes ; illustrations : 38 cm x 30 cm</format>
@@ -20840,7 +20987,7 @@
       <description>Holdings: no. 0</description>
       <description>Notes: </description>
       <publisher>CEAP- Centro de Articulação de Populações Marginalizadas</publisher>
-      <contributor>Almeida, Rubem Thomas de, secretary</contributor>
+      <contributor>Almeida, Rubem Tomás de, secretary</contributor>
       <contributor>Santos, Ivanir dos, executive secretary</contributor>
       <contributor>Silva, Geni Oliveira Mattos, women's program coordinator</contributor>
       <contributor>Pereira, Neusa das Dores, women's program coordinator</contributor>
@@ -21061,7 +21208,7 @@
       <contributor>Brito, Orlando, editor</contributor>
       <contributor>Pio, Djanira, editor</contributor>
       <contributor>Fidelli, Cecília, editor</contributor>
-      <contributor>Francechetto, Larí, editor</contributor>
+      <contributor>Franceschetto, Larí, editor</contributor>
       <contributor>Saito, Roberto, editor</contributor>
       <contributor>Py, Fernando, editor</contributor>
       <contributor>Volpato, Irineu, editor</contributor>
@@ -21168,7 +21315,7 @@
       <description>Notes: date of no. 8, 11, 14 is not actual date of publication; collection acquired by library in
          2005</description>
       <publisher/>
-      <contributor>Baptista, Arthur F., journalist-in-chief</contributor>
+      <contributor>Batista, Arthur F., journalist-in-chief</contributor>
       <contributor>Piva, Roberto, poet</contributor>
       <contributor>Meirelles, Romildes de, poet</contributor>
       <contributor>Conde, Martinho, poet</contributor>
@@ -21188,7 +21335,7 @@
       <contributor>Fidelli, Cecília, poet</contributor>
       <contributor>Araújo, Avelino, poet</contributor>
       <contributor>Carvalho, Idalina de, poet</contributor>
-      <contributor>Wanke, Eno Theodoro, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <contributor>Siqueira, Lau, poet</contributor>
       <date>Sep 15, 1995; Dec 2007; May 2008; Sep 2009</date>
       <type>Newspaper</type>
@@ -21569,7 +21716,7 @@
       <contributor>Marco, José, poet</contributor>
       <contributor>Ferreira, Hygia, poet</contributor>
       <contributor>Míccolis, Leila, poet</contributor>
-      <contributor>Souza, Jurema B. de, poet</contributor>
+      <contributor>Souza, Jurema Barreto de, poet</contributor>
       <contributor>Pereira, Cleonir, poet</contributor>
       <contributor>Albeirice, Pedro, poet</contributor>
       <contributor>Martins, Rogério, poet</contributor>
@@ -21704,10 +21851,9 @@
       <contributor>Veras, Dalila Teles, poet</contributor>
       <contributor>Souza, Jurema Barreto de, poet</contributor>
       <contributor>Humberto, Luiz, poet</contributor>
-      <contributor>Machado, Ana Cândida P., poet</contributor>
       <contributor>Lima, Valéria de Cássia, poet</contributor>
       <contributor>Prado, Anita Costa, poet</contributor>
-      <contributor>Bresani, Júlio, poet</contributor>
+      <contributor>Bressani, Júlio, poet</contributor>
       <contributor>Zuchetti, Solange Soccol, poet</contributor>
       <contributor>Lima, Mariano de, poet</contributor>
       <date>Aug 1994-Apr 1995</date>
@@ -21846,13 +21992,13 @@
       <description>Holdings: no. 1178, yr. 23 (Nov 23-29, 1990); no. 1203, yr. 24 (Jun 21-27, 1991); no. 1224-1225, yr. 25 (Nov 15-28); no. 1287, yr. 25 (Apr 2-8, 1993)</description>
       <description>Notes: </description>
       <publisher/>
-      <contributor>Soares, Jarnete F., poet</contributor>
+      <contributor>Soares, Jarnete Ferreira, poet</contributor>
       <contributor>Poeta, João, poet</contributor>
       <contributor>Mathion, Olga, poet</contributor>
       <contributor>Lyrio Neto, Ivaldo, poet</contributor>
       <contributor>Chola, Elza Meireles, poet</contributor>
       <contributor>Godoy, Rosa Bonfim de, poet</contributor>
-      <contributor>Wanke, Eno Theodoro, poet</contributor>
+      <contributor>Wanke, Eno Teodoro, poet</contributor>
       <contributor>Araújo, Célia Lamounier de, poet</contributor>
       <date>Nov 23-29, 1990; Jun 21-27, 1991; Nov 15-28; Apr 2-8, 1993</date>
       <type>Newspaper</type>
@@ -22086,14 +22232,16 @@
       <publisher>Edições Eros Urânia</publisher>
       <contributor>Santos, Fred, poet</contributor>
       <contributor>Banderas, Mônica, poet</contributor>
-      <contributor>Chacon, Beatriz Escorcio, poet</contributor>
-      <contributor>Caridas, J., poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
+      <contributor>Cardias, J., poet</contributor>
       <contributor>Fantini, Sérgio, poet</contributor>
       <contributor>Cardoso, Tanussi, poet</contributor>
       <contributor>Oliveira, Caco de, poet</contributor>
       <contributor>Calaza, Fábio, poet</contributor>
       <contributor>Fontes, Ilma, poet</contributor>
-      <contributor>Myriam Ramos, Irineu Volpato, Lourival Farias Sodré, poet</contributor>
+      <contributor>Ramos, Myriam, poet</contributor>
+      <contributor>Volpato, Irineu, poet</contributor>
+      <contributor>Sodré, Lourival Farias, poet</contributor>
       <date>Sep-Dec 1997</date>
       <type>Newspaper</type>
       <format>2 volumes ; illustrations : 35 cm x 29 cm</format>
@@ -22368,7 +22516,7 @@
       <contributor>Paxecu, Marise, editor</contributor>
       <contributor>Lucena, Ivaldo, editor</contributor>
       <contributor>La Puente, Gabriel de, editor</contributor>
-      <contributor>Leites, Hélio, editor</contributor>
+      <contributor>Lete, Hélio, editor</contributor>
       <contributor>Silveira, José, journalist-in-chief</contributor>
       <contributor>Wanke, Eno Teodoro, collaborator</contributor>
       <contributor>Gomes, Artur, collaborator</contributor>
@@ -26357,7 +26505,7 @@
       <publisher>Academia de Letras dos Municípios do RS</publisher>
       <contributor>Steffens, Ruth Libânia, vice-president</contributor>
       <contributor>Alvim, Dalila Mayer, secretary</contributor>
-      <contributor>Rocha, Santa Inèze da, writer-in-chief</contributor>
+      <contributor>Rocha, Santa Inèze Domingues da, writer-in-chief</contributor>
       <contributor>Dornelli, Regina, journalist-in-chief</contributor>
       <date>Nov 1996; Oct/Nov/Dec 1997; Jul-Dec 1998; Jul-Dec 2000</date>
       <type>Newspaper</type>
@@ -27031,7 +27179,7 @@
       <contributor>Raghiant, Uriel, journalist-in-chief</contributor>
       <contributor>Pinto, Arnaldo da Silva, writer-in-chief</contributor>
       <contributor>Arruda, Roberto A. de, layout designer</contributor>
-      <contributor>Lima, Benedito C. G., copy editor</contributor>
+      <contributor>Lima, Benedito C. G. de, copy editor</contributor>
       <contributor>Bispo, Jubiracy C., collaborator</contributor>
       <contributor>Aguilar, Pedro Ignácio, collaborator</contributor>
       <date>Feb 8-15, 1987</date>
@@ -27378,7 +27526,7 @@
       <contributor>Patrícia Blower, Bráulio Tavares, poet</contributor>
       <contributor>Guilmar, César, poet</contributor>
       <contributor>Moriconi, Ítalo, poet</contributor>
-      <contributor>Chacon, Beatriz Escorcio, poet</contributor>
+      <contributor>Chacon, Beatriz Escórcio, poet</contributor>
       <contributor>Lima, Carlis, poet</contributor>
       <contributor>Cirne, Moacy, poet</contributor>
       <date>Oct 1990-Jan; Jan-Sep 1992; Apr-Sep 1993</date>
@@ -29212,7 +29360,7 @@
       <description>Holdings: no. 9, yr. 2</description>
       <description>Notes: </description>
       <publisher>Rotary International</publisher>
-      <contributor>Santos, Diniz Felix dos, vice-president</contributor>
+      <contributor>Santos, Diniz Félix dos, vice-president</contributor>
       <contributor>Santos, Antônio Araújo, journalist</contributor>
       <date>Aug 26, 1998</date>
       <type>Newspaper</type>
